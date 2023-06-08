@@ -24,4 +24,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyetco terminado: [Conación de Google](#)
+Aquí puedes visualizar mi proyetco terminado: [Clonación de Google](#)
